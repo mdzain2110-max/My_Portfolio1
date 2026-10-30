@@ -1,46 +1,46 @@
-👋 Hi, I'm an Aspiring AI & Machine Learning Developer!
+Portfolio | Artificial Intelligence & Machine Learning
+About Me
 
-🎓 B.Tech Undergraduate | Artificial Intelligence & Machine Learning
+I am an undergraduate student pursuing a Bachelor of Technology in Artificial Intelligence and Machine Learning (B.Tech AIML), with a strong interest in emerging technologies, intelligent systems, and innovative software development.
 
-Welcome to my GitHub portfolio! I'm an enthusiastic undergraduate student passionate about exploring Artificial Intelligence, Machine Learning, and emerging technologies. I enjoy learning new concepts, experimenting with innovative ideas, and building projects that solve real-world problems.
+I am focused on developing my technical knowledge, strengthening my problem-solving abilities, and applying theoretical concepts to practical projects. My goal is to build meaningful technology-driven solutions that address real-world challenges.
 
-🚀 About Me
-🎓 Currently pursuing B.Tech in Artificial Intelligence & Machine Learning (AIML).
-🤖 Interested in Artificial Intelligence, Machine Learning, and intelligent systems.
-💡 Passionate about building innovative and practical technology solutions.
-📚 Continuously learning, exploring, and improving my technical skills.
-🚀 Focused on transforming ideas into impactful projects.
-💻 Featured Project
-🌟 Nova Pulse
+Education
 
-Intelligence Engineered For High-Velocity Teams
+Bachelor of Technology (B.Tech)
 
-"Calculate your team's velocity gains."
+Specialization: Artificial Intelligence and Machine Learning
+Current Status: Undergraduate
+Featured Project
+Nova Pulse
 
-Nova Pulse is my featured project, centered around intelligent insights and team productivity.
+Intelligence Engineered for High-Velocity Teams
 
-Project Focus:
+"Calculate Your Team's Velocity Gains."
 
-📊 Team velocity analysis.
-⚡ Productivity and performance insights.
-🧠 Intelligence-driven solutions.
-🚀 Helping high-velocity teams understand their growth.
-🎯 Areas of Interest
+Nova Pulse is a project focused on leveraging intelligent solutions to help teams understand, evaluate, and improve their performance and productivity.
+
+Core Focus Areas
+
+Team velocity analysis
+Productivity measurement
+Performance insights
+Intelligence-driven solutions
+Areas of Interest
 Artificial Intelligence
 Machine Learning
 Data Science
-Intelligent Automation
-Innovative Software Development
-🌱 My Goals
-Strengthen my knowledge of AI and ML.
-Develop practical, real-world projects.
-Explore emerging technologies.
-Build innovative solutions that make a difference.
-Continuously grow as a developer and problem solver.
-🤝 Let's Connect!
+Intelligent Systems
+Software Development
+Emerging Technologies
+Professional Goals
+Develop a strong foundation in Artificial Intelligence and Machine Learning.
+Build practical projects that demonstrate technical capabilities.
+Explore innovative approaches to real-world problems.
+Continuously improve technical and analytical skills.
+Contribute to meaningful technology-driven initiatives.
+Connect
 
-I'm always open to learning opportunities, collaboration, and connecting with people who share an interest in technology and innovation.
+I am interested in connecting with developers, technology enthusiasts, and professionals to exchange knowledge, explore opportunities, and collaborate on innovative projects.
 
-Thanks for visiting my portfolio!
-
-⭐ Keep Learning | Keep Building | Keep Innovating
+Learning continuously. Building intelligently. Innovating purposefully.
